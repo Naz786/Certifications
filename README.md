@@ -1,7 +1,7 @@
 # Azure Fundamentals (Cloud)
-[Microsoft Azure Fundamentals: Describe cloud concepts. Completed: 06/01/2024.](https://learn.microsoft.com/api/achievements/share/en-gb/ServantOfTheMerciful-3470/8RDV39CW?sharingId=976CFCB590D5AA6E)
+[Microsoft Azure Fundamentals: Describe cloud concepts.](https://learn.microsoft.com/api/achievements/share/en-gb/ServantOfTheMerciful-3470/8RDV39CW?sharingId=976CFCB590D5AA6E) Completed: 06/01/2024.
 
-[Describe cloud service types. Completed: 06/01/2024.](https://learn.microsoft.com/en-gb/users/servantofthemerciful-3470/achievements/zp9jayf2)
+[Describe cloud service types.](https://learn.microsoft.com/en-gb/users/servantofthemerciful-3470/achievements/zp9jayf2) Completed: 06/01/2024.
 
 # ASP.NET Core 
 ![ASP NET Core Fundamentals 2019](https://user-images.githubusercontent.com/9447872/181353716-08080bd6-8871-4c7c-9b61-21fd64216a88.png)
